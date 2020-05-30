@@ -62,8 +62,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f102a01c3ebd8deb2308                            #生成的clientID
-  clientSecret: 56f5bb0b420a5dac254916e38b7b7a61bf3322b1    #生成的clientSecret
+  clientID: b220ee43c9e7f11ac8ba                            #生成的clientID
+  clientSecret: db7b894a20700acc1b22c220d576601c750d46e7    #生成的clientSecret
   repo: msr-tang.github.io    #仓库名称
   owner: msr-tang    #github用户名
   admin: msr-tang
